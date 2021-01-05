@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Code Pros [codepros]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Go No SQL
+- 🥅 2021 Goals: Go No SQL
 
 
 ### Connect with me:
@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Niraj Lekhak's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Niraj Lekhak's Github Stats" src="https://github-readme-stats.nrajlekhak.vercel.app/api?username=nrajlekhak&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -57,5 +57,5 @@
 [twitter]: https://twitter.com/lekhakhimself
 [instagram]: https://instagram.com/lekhakhimself
 [linkedin]: https://linkedin.com/in/lekhakhimself
-[codepros]: https://codeprofessionals.biz
+[codepros]: https://codeproscom.np
 
