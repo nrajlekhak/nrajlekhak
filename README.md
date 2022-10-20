@@ -80,7 +80,7 @@
 <!-- <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nrajlekhak&style=for-the-badge" alt="nrajlekhak"/> -->
 
 [website]: https://nirajlekhak.com
-[leapfrog]: https://lftechnologies.com
+[leapfrog]: https://www.lftechnology.com/
 [twitter]: https://twitter.com/lekhakhimself
 [instagram]: https://instagram.com/lekhakhimself
 [linkedin]: https://linkedin.com/in/lekhakhimself
