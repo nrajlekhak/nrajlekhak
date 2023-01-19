@@ -1,9 +1,9 @@
 # Hello, I'm Niroj Lekhak [website][website] 👋
 
-- I am Software Engineer from Nepal 🇳🇵
+- I am Senior Software Engineer from Nepal 🇳🇵
 - Currently working at [Leapfrog][leapfrog] <img src='https://avatars.githubusercontent.com/u/3176020?s=200&v=4' width='20' height='20' />
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Scalability
+- 🥅 2023 Goals: Scalability
 
 ### Languages and Tools:
 
