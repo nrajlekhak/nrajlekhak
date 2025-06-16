@@ -64,7 +64,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/lekhakhimself#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lekhakhimself#gh-dark-mode-only)
 
-S
 ![Snake animation](https://raw.githubusercontent.com/nrajlekhak/nrajlekhak/output/github-snake-dark.svg)
 
 
